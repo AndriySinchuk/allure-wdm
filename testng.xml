@@ -2,7 +2,7 @@
 
     <test name="Example test">
         <classes>
-            <class name="com.sample.tests.tests.SimpleTest"></class>
+            <class name="com.sample.project.tests.SimpleTest"></class>
         </classes>
     </test>
 
