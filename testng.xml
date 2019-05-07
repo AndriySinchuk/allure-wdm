@@ -1,0 +1,9 @@
+﻿<suite name="Test" parallel="tests" thread-count="8" verbose="3">
+
+    <test name="Example test">
+        <classes>
+            <class name="com.sample.tests.tests.SimpleTest"></class>
+        </classes>
+    </test>
+
+</suite>
